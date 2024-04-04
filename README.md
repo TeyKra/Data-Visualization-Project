@@ -30,3 +30,7 @@ Your Streamlit application must adhere to the following technical requirements:
 ## Objective
 
 The primary goal is to provide meaningful insights and narrate a compelling story through your data. Initially, dedicate time to explore, conceptualize, and structure your dashboard. Decide on the questions you aim to answer and the insights you wish to convey to your users.
+
+## Choice
+
+For this project, we have chosen to use a dataset found on [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/accidents-de-velo/) related to bicycle accidents for the period 2005-2021.
