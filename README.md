@@ -1,4 +1,4 @@
-# Projet_Data_Visualization
+# Data_Visualization_M1_Project
 
 # Requirements
 
